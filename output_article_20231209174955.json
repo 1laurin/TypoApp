@@ -1,0 +1,72 @@
+{
+  "id": "162",
+  "content": "\nContent: Artificial intelligence has been marketed as a revolutionary technology that will improve almost every facet of our lives. But if you’re feeling a bit wary of AI, you’re certainly not alone.\nAn October report obtained by The Root from Charter, a workplace research firm, reveals that Black workers are feeling less than rosy about the impact of AI. The survey found that over half of Black respondents expressed concern about AI replacing them within the next five years. Black respondents were significantly more likely than white respondents to share these concerns about being replaced.\nThese concerns aren’t unfounded. For one thing, when the economy gets bad, Black workers tend to be the first to be let go when companies try to cut costs, and the last employees hired back.\nA 2019 study from McKinsey also validates those fears. The study found that African Americans were overrepresented in roles that were at risk of being obsolete because of automation, including artificial intelligence. Black men and younger Black workers were particularly at risk, according to their model. Researchers noted that Black Americans were overrepresented in roles such as office support, food services, and production work that were at risk from automation. In comparison, Black Americans were underrepresented in roles like lawyer or physician that were less at risk from automation.\nBusiness Insider’s analysis of the study found that roughly 4.5 million Black jobs could be displaced by automation by 2030 without intervention.\nPotential job losses aren’t the only things to fear. A recent Stanford study argued that AI could make the healthcare system more racist. And other studies have found that it could be injecting more racism and disinformation into the public.\nTo be clear, these job loss numbers are all estimates. No one has a crystal ball to look into the future. But it does validate serious concerns about the pace at which we’re adopting AI into our lives.\n\nPolitical Typology: Strong_Left\n",
+  "labels": [
+    "general"
+  ],
+  "sentiment": "NEGATIVE",
+  "topics": {
+    "healthcare": {
+      "keywords": [
+        "healthcare",
+        "public health",
+        "medical care"
+      ],
+      "sentences": [
+        {
+          "content": "A recent Stanford study argued that AI could make the healthcare system more racist",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "jobs_economy": {
+      "keywords": [
+        "jobs",
+        "economy",
+        "employment"
+      ],
+      "sentences": [
+        {
+          "content": "For one thing, when the economy gets bad, Black workers tend to be the first to be let go when companies try to cut costs, and the last employees hired back",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "5 million Black jobs could be displaced by automation by 2030 without intervention",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "war": {
+      "keywords": [
+        "war",
+        "conflict",
+        "military intervention"
+      ],
+      "sentences": [
+        {
+          "content": "But if you’re feeling a bit wary of AI, you’re certainly not alone",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    }
+  }
+}

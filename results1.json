@@ -1,0 +1,175 @@
+[
+  {
+    "topic": "civil_rights",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ],
+    "paragraph": "AMCHA and more than 100 other religious, education and civil rights organizations signed a letter urging UC leadership to \"immediately\" reject the \"H\" requirement, arguing that \"faculty who cannot acknowledge that the Hamas massacre is terrorism \u2026 must not be trusted to establish state-wide ethnic studies standards for California students.\""
+  },
+  {
+    "topic": "civil_rights",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ],
+    "paragraph": "In September, the council wrote to Newsom and California State Superintendent of Public Instruction Tony Thurmond, objecting to \"guardrails\" written into the high school mandate. Specifically, the council opposes a ban on promoting \"bias, bigotry, or discrimination against any person or group of persons on the basis of any category protected by Section 220\" of the state educational code."
+  },
+  {
+    "topic": "national_security",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ],
+    "paragraph": "Dozens of religious and educational organizations are urging the University of California to reject a proposed ethnic studies admission requirement in light of an influential faculty council's defense of the Oct. 7 Hamas massacre."
+  },
+  {
+    "topic": "education",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ],
+    "paragraph": "Dozens of religious and educational organizations are urging the University of California to reject a proposed ethnic studies admission requirement in light of an influential faculty council's defense of the Oct. 7 Hamas massacre."
+  },
+  {
+    "topic": "education",
+    "sentiment": "negative",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ],
+    "paragraph": "\"Through ethnic studies, what we're seeing is the institutionalization of antisemitism,\" said Brandy Shufutinsky of the Alliance for Constructive Ethnic Studies, which opposes narrow and \"radical\" ideological agendas in education."
+  },
+  {
+    "topic": "education",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "balanced"
+    ],
+    "paragraph": "That requirement takes effect with the graduating class of 2030, though schools must start offering classes by the 2025-26 school year."
+  },
+  {
+    "topic": "education",
+    "sentiment": "negative",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ],
+    "paragraph": "But in 2020, as legislators were arguing over the state mandate, the UC faculty senate Board of Admissions and Relations with Schools (BOARS) began considering a proposal to add ethnic studies as an \"H\" requirement for admission to UC colleges. Currently, all high school applicants must satisfy what are known as the A-G subject requirements, including history, English, math, science and art."
+  },
+  {
+    "topic": "education",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "balanced"
+    ],
+    "paragraph": "Otherwise, students would not be eligible to apply to UC schools, nor California State University, which has the same course requirements, EdSource reported."
+  },
+  {
+    "topic": "education",
+    "sentiment": "negative",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ],
+    "paragraph": "Shufutinsky, an education consultant with the Alliance for Constructive Ethnic Studies, said she was shocked the council \"felt very comfortable saying the quiet part out loud.\""
+  },
+  {
+    "topic": "education",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ],
+    "paragraph": "AMCHA and more than 100 other religious, education and civil rights organizations signed a letter urging UC leadership to \"immediately\" reject the \"H\" requirement, arguing that \"faculty who cannot acknowledge that the Hamas massacre is terrorism \u2026 must not be trusted to establish state-wide ethnic studies standards for California students.\""
+  },
+  {
+    "topic": "education",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ],
+    "paragraph": "In September, the council wrote to Newsom and California State Superintendent of Public Instruction Tony Thurmond, objecting to \"guardrails\" written into the high school mandate. Specifically, the council opposes a ban on promoting \"bias, bigotry, or discrimination against any person or group of persons on the basis of any category protected by Section 220\" of the state educational code."
+  },
+  {
+    "topic": "crime",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "balanced",
+      "skews_left"
+    ],
+    "paragraph": "\"We call on the UC administrative leadership to retract its charges of terrorism, to uplift the Palestinian freedom struggle, and to stand against Israel\u2019s war crimes against and ethnic cleansing and genocide of the Palestinian people,\" the council wrote last month."
+  },
+  {
+    "topic": "civil_liberties",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "balanced",
+      "skews_left",
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ],
+    "paragraph": "A UC mandate would effectively usurp the state law, which grants each school district the freedom to decide what to include in ethnic studies courses, according to Rossman-Benjamin."
+  },
+  {
+    "topic": "war",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "balanced"
+    ],
+    "paragraph": "\"We call on the UC administrative leadership to retract its charges of terrorism, to uplift the Palestinian freedom struggle, and to stand against Israel\u2019s war crimes against and ethnic cleansing and genocide of the Palestinian people,\" the council wrote last month."
+  },
+  {
+    "topic": "war",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ],
+    "paragraph": "\"But that's also beneficial because now we are very aware of exactly where they stand and why we have to stand against the proposals that they're making,\" she told Fox News."
+  },
+  {
+    "topic": "war",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ],
+    "paragraph": "Now we are very aware of exactly where they stand and why we have to stand against the proposals that they're making"
+  }
+]

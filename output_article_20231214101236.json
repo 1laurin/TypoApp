@@ -1,0 +1,46 @@
+{
+  "id": "154",
+  "content": "ne\n\nIt’s tempting to think the biggest problem with\nHerschel Walker’s Senate candidacy is his record of\nlying about his own record. Some might also make the\ncase that the Georgia Republican’s biggest hurdle is his\ndreadful personal background, including domestic\nviolence — he allegedly threatened to murder his ex-\nwife — and talk of having a shootout with police.\n\nBut just as important is the first-time candidate’s\nunfamiliarity with the basics of government and public\naffairs.\n\nAs regular readers know, it was a few months ago\nwhen Walker tried to share some thoughts on energy\npolicy. It was an embarrassing disaster: As my MSNBC\ncolleague Ja’han Jones put it, Walker “delivered a\n",
+  "labels": [
+    "general"
+  ],
+  "sentiment": "NEGATIVE",
+  "topics": {
+    "republican": {
+      "keywords": [
+        "republican",
+        "conservative",
+        "right-wing"
+      ],
+      "sentences": [
+        {
+          "content": "Some might also make the\ncase that the Georgia Republican’s biggest hurdle is his\ndreadful personal background, including domestic\nviolence — he allegedly threatened to murder his ex-\nwife — and talk of having a shootout with police",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "police": {
+      "keywords": [
+        "police",
+        "law enforcement",
+        "policing"
+      ],
+      "sentences": [
+        {
+          "content": "Some might also make the\ncase that the Georgia Republican’s biggest hurdle is his\ndreadful personal background, including domestic\nviolence — he allegedly threatened to murder his ex-\nwife — and talk of having a shootout with police",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    }
+  }
+}

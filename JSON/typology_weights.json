@@ -1,0 +1,342 @@
+{
+    "topics": [
+        {
+            "topic": "social_justice_reform",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "skews_left": 1,
+                "balanced": 0,
+                "skews_right": -1,
+                "strong_right": -2,
+                "hyper_partisan_right": -3,
+                "most_extreme_right": -4
+            }
+        },
+        {
+            "topic": "economic_freedom",
+            "typology_weight": {
+                "most_extreme_left": -4,
+                "hyper_partisan_left": -3,
+                "strong_left": 0,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "inflation",
+            "typology_weight": {
+                "most_extreme_left": 0,
+                "hyper_partisan_left": 0,
+                "strong_left": 0,
+                "balanced": -1,
+                "skews_left": -1,
+                "most_extreme_right": -1,
+                "hyper_partisan_right": -1,
+                "strong_right": -1,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "healthcare",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 1,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "climate",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "jobs_economy",
+            "typology_weight": {
+                "most_extreme_left": -3,
+                "hyper_partisan_left": -4,
+                "strong_left": 0,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "immigration",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "taxes",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 0,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "government_spending",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "balanced": 0,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "abortion",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 1,
+                "most_extreme_right": 0,
+                "hyper_partisan_right": -1,
+                "strong_right": -1,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "civil_rights",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 1,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "guns",
+            "typology_weight": {
+                "most_extreme_left": -3,
+                "hyper_partisan_left": -4,
+                "strong_left": -2,
+                "balanced": 0,
+                "skews_left": -1,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "national_security",
+            "typology_weight": {
+                "most_extreme_left": -3,
+                "hyper_partisan_left": -3,
+                "strong_left": 0,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "education",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 1,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "crime",
+            "typology_weight": {
+                "most_extreme_left": 0,
+                "hyper_partisan_left": 0,
+                "strong_left": 0,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "civil_liberties",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 1,
+                "skews_left": 1,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "foreign_policy",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "skews_left": 1,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "balanced": 0,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "criminal_justice_reform",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "skews_left": 1,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "balanced": 0,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "democrat",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 2,
+                "balanced": 0,
+                "skews_left": 1,
+                "most_extreme_right": -4,
+                "hyper_partisan_right": -3,
+                "strong_right": -2,
+                "balanced": 0,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "gop",
+            "typology_weight": {
+                "most_extreme_left": -4,
+                "hyper_partisan_left": -3,
+                "strong_left": -2,
+                "balanced": 0,
+                "skews_left": -1,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "republican",
+            "typology_weight": {
+                "most_extreme_left": -3,
+                "hyper_partisan_left": -4,
+                "strong_left": -2,
+                "balanced": 0,
+                "skews_left": -1,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "socialism",
+            "typology_weight": {
+                "most_extreme_left": 4,
+                "hyper_partisan_left": 3,
+                "strong_left": 0,
+                "balanced": 0,
+                "skews_left": 0,
+                "most_extreme_right": -3,
+                "hyper_partisan_right": -4,
+                "strong_right": -2,
+                "skews_right": -1
+            }
+        },
+        {
+            "topic": "war",
+            "typology_weight": {
+                "most_extreme_left": -3,
+                "hyper_partisan_left": -4,
+                "strong_left": -2,
+                "balanced": 0,
+                "skews_left": -1,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        },
+        {
+            "topic": "police",
+            "typology_weight": {
+                "most_extreme_left": -3,
+                "hyper_partisan_left": -4,
+                "strong_left": -2,
+                "balanced": 0,
+                "skews_left": -1,
+                "most_extreme_right": 4,
+                "hyper_partisan_right": 3,
+                "strong_right": 2,
+                "skews_right": 1
+            }
+        }
+    ]
+}

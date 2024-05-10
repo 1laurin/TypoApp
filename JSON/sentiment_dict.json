@@ -1,0 +1,99 @@
+
+{
+    "social_justice_reform": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "skews_left": "neutral",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "balanced": "neutral", "skews_right": "neutral"
+    },
+    "economic_freedom": {
+        "most_extreme_left": "negative", "hyper_partisan_left": "negative", "strong_left": "neutral", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    },
+    "inflation": {
+        "most_extreme_left": "neutral", "hyper_partisan_left": "neutral", "strong_left": "neutral", "balanced": "negative", "skews_left": "negative",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "healthcare": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "neutral", "skews_left": "positive",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "climate": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "jobs_economy": {
+        "most_extreme_left": "negative", "hyper_partisan_left": "negative", "strong_left": "neutral", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    },
+    "immigration": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "taxes": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "neutral", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "government_spending": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "abortion": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "neutral", "skews_left": "positive",
+        "most_extreme_right": "neutral", "hyper_partisan_right": "negative", "strong_right": "negative",  "skews_right": "negative"
+    },
+    "civil_rights": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "neutral", "skews_left": "positive",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "guns": {
+        "most_extreme_left": "negative", "hyper_partisan_left": "negative", "strong_left": "negative", "balanced": "neutral", "skews_left": "negative",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    },
+    "national_security": {
+        "most_extreme_left": "negative", "hyper_partisan_left": "negatice", "strong_left": "neutral", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    },
+    "education": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "neutral", "skews_left": "positive",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "crime": {
+        "most_extreme_left": "neutral", "hyper_partisan_left": "neutral", "strong_left": "neutral", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "civil_liberties": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "balanced": "positive", "skews_left": "positive",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    },
+    "foreign_policy": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "skews_left": "positive",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "balanced": "neutral", "skews_right": "negative"
+    },
+    "criminal_justice_reform": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "skews_left": "positive",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "balanced": "neutral", "skews_right": "negative"
+    },
+    "democrat": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "positive", "skews_left": "neutral",
+        "most_extreme_right": "negatice", "hyper_partisan_right": "negative", "strong_right": "negative", "balanced": "neutral", "skews_right": "neutral"
+    },
+    "gop": {
+        "most_extreme_left": "negatice", "hyper_partisan_left": "negative", "strong_left": "negative", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive","skews_right": "positive"
+    },
+    "republican": {
+        "most_extreme_left": "negative", "hyper_partisan_left": "negative", "strong_left": "negative", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    },
+    "socialism": {
+        "most_extreme_left": "positive", "hyper_partisan_left": "positive", "strong_left": "neutral", "balanced": "neutral", "skews_left": "neutral",
+        "most_extreme_right": "negative", "hyper_partisan_right": "negative", "strong_right": "negative", "skews_right": "negative"
+    },
+    "war": {
+        "most_extreme_left": "negative", "hyper_partisan_left": "negative", "strong_left": "negative", "balanced": "neutral", "skews_left": "negative",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    },
+    "police": {
+        "most_extreme_left": "negative", "hyper_partisan_left": "negative", "strong_left": "negative", "balanced": "neutral", "skews_left": "negative",
+        "most_extreme_right": "positive", "hyper_partisan_right": "positive", "strong_right": "positive", "skews_right": "positive"
+    }
+}

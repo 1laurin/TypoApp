@@ -1,0 +1,19 @@
+{
+  "biased_terms": [
+    "spokesman",
+    "terrorist"
+  ],
+  "opinion_terms": [],
+  "positive_keywords": [
+    "rights",
+    "community"
+  ],
+  "negative_keywords": [
+    "censorship",
+    "war",
+    "crackdown"
+  ],
+  "aggressive_words": [
+    "outrage"
+  ]
+}

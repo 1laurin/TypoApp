@@ -1,0 +1,28 @@
+{
+  "id": "383",
+  "content": "\nContent: Palmer Report » Analysis\nA new poll yesterday from Emerson, a respected polling outlet, has Joe Biden five points ahead of Donald Trump in the critical state of New Hampshire. Given how much emphasis the national political media places on New Hampshire, you’d think that this poll would get major media attention. It hasn’t.\nThat’s because it simply doesn’t fit the narrative that the national political media is (unanimously) hyping for ratings right now, which is that Biden is supposedly in huge trouble and his election bid is doomed. This narrative is based solely on a handful of polls that show Trump supposedly being ahead of Biden by a few points. Even if these polls were accurate, it wouldn’t be the end of the world for Biden. But in reality, if you look at the overall polling averages, the polls say that Biden and Trump are tied.\nThat’s right, the (entire) political media is selling the narrative that Biden is doomed and should consider dropping out because of how bad his polls supposedly are, when in reality the polls say that Biden is tied.\nAnd of course when you dive into the polling data, you see that the ones claiming Trump is ahead are generally undersampling youth voters and oversampling registered Republicans. So if you throw those suspect polls out, the remaining polling averages say that Biden is ahead of Trump.\nSo if you’re making the argument that Biden is in good shape, you don’t have to say “ignore the polls.” Because if you do look at the polls, they’re actually pretty good for Biden. They’re not great for him, but they’re certainly not bad for him in any way.\nMaybe what we should be doing is demanding that the media look at the polls. All of the polls, not just the isolated occasional polls that it likes to cherry pick, while ignoring what all the rest of the polls say. In reality, even the polls say Biden is in pretty good shape for 2024. It’s just that the entire media keeps lying about what the polls are even saying.\n \nBill Palmer is the publisher of the political news outlet Palmer Report\n\nPolitical Typology: Most_Extreme_Left\n",
+  "labels": [
+    "general"
+  ],
+  "sentiment": "NEGATIVE",
+  "topics": {
+    "republican": {
+      "keywords": [
+        "republican",
+        "conservative",
+        "right-wing"
+      ],
+      "sentences": [
+        {
+          "content": "And of course when you dive into the polling data, you see that the ones claiming Trump is ahead are generally undersampling youth voters and oversampling registered Republicans",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    }
+  }
+}

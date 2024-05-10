@@ -1,0 +1,46 @@
+{
+  "id": "241",
+  "content": "We should not have to pay for healthcare it should be free. Free abortions free everything.",
+  "labels": [
+    "general"
+  ],
+  "sentiment": "NEGATIVE",
+  "topics": {
+    "healthcare": {
+      "keywords": [
+        "healthcare",
+        "public health",
+        "medical care"
+      ],
+      "sentences": [
+        {
+          "content": "We should not have to pay for healthcare it should be free",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "abortion": {
+      "keywords": [
+        "abortion",
+        "reproductive rights",
+        "pro-life"
+      ],
+      "sentences": [
+        {
+          "content": "Free abortions free everything",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "POSITIVE"
+    }
+  }
+}

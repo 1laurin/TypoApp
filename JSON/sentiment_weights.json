@@ -1,0 +1,11 @@
+ {
+    "most_extreme_left": 4,
+    "hyper_partisan_left": 3,
+    "strong_left": 2,
+    "balanced": 1,
+    "skews_left": 0.5,
+    "skews_right": -0.5,
+    "strong_right": -2,
+    "hyper_partisan_right": -3,
+    "most_extreme_right": -4
+}

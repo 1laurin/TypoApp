@@ -1,0 +1,122 @@
+{
+  "Progressive_Left": {
+    "label": "Most_Extreme_Left",
+    "sources": [
+      "wonkette",
+      "palmer report"
+    ]
+  },
+  "Establishment_Liberals": {
+    "label": "Hyper_Partisan_Left",
+    "sources": [
+      "the gray zone",
+      "socialist alternative",
+      "shadow proof",
+      "Jacobin",
+      "occupy democrats",
+      "Crooks and liars",
+      "truthout",
+      "the nation"
+    ]
+  },
+  "Democratic_Mainstays": {
+    "label": "Strong_Left",
+    "sources": [
+      "TheRoot",
+      "Consortorium News",
+      "Bipartisan Report",
+      "Alternet",
+      "RightWingWatch",
+      "Jezebel",
+      "New Republic",
+      "RAWSTORY",
+      "MSNBC",
+      "The intercept",
+      "The New Yorker",
+      "The American Independent"
+    ]
+  },
+  "Outsider_Left": {
+    "label": "Skews_Left",
+    "sources": [
+      "RollingStone",
+      "TMZ",
+      "INQUISITR",
+      "the Trio",
+      "The Atlantic",
+      "Washington Post",
+      "VOX",
+      "LA Times",
+      "CNN",
+      "Daily-news",
+      "NBC News",
+      "UsNews"
+    ]
+  },
+  "Stressed_Sideliners": {
+    "label": "Balanced",
+    "sources": [
+      "CNBC",
+      "REUTERS",
+      "BARRONS",
+      "The Hill",
+      "The econimist",
+      "CHRON",
+      "American action forum",
+      "Newsnation",
+      "BNO",
+      "AirForce Times"
+    ]
+  },
+  "Ambivalent_Right": {
+    "label": "Skews_Right",
+    "sources": [
+      "WSJ",
+      "The center square",
+      "Christianity Today",
+      "Fox Business",
+      "Fox News",
+      "Washington Times",
+      "Boston Herald",
+      "The college fix"
+    ]
+  },
+  "Populist_Right": {
+    "label": "Strong_Right",
+    "sources": [
+      "The Examiner",
+      "NewsMax",
+      "Breitbart",
+      "The New York Sun",
+      "The Rasmussen Reports",
+      "The Heritage Foundation",
+      "OAN"
+    ]
+  },
+  "Committed_Conservatives": {
+    "label": "Hyper_Partisan_Right",
+    "sources": [
+      "The Western Journal",
+      "TownHall",
+      "The federalist",
+      "PragerU",
+      "RedState",
+      "PJ media",
+      "Epoch Times",
+      "Judicial Watch",
+      "Bill_O_Reilly"
+    ]
+  },
+  "Faith_And_Flag_Conservatives": {
+    "label": "Most_Extreme_Right",
+    "sources": [
+      "NewsPunch",
+      "InfoWars",
+      "Gateway Pundit",
+      "Natural news",
+      "American Liberty Report",
+      "NewsTarget",
+      "Before_It_was_news"
+    ]
+  }
+}

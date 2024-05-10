@@ -1,0 +1,159 @@
+[
+  {
+    "topic": "civil_rights",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ]
+  },
+  {
+    "topic": "civil_rights",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ]
+  },
+  {
+    "topic": "national_security",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "negative",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "balanced"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "negative",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "balanced"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "negative",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ]
+  },
+  {
+    "topic": "education",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "skews_left"
+    ]
+  },
+  {
+    "topic": "crime",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "balanced",
+      "skews_left"
+    ]
+  },
+  {
+    "topic": "civil_liberties",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_left",
+      "hyper_partisan_left",
+      "strong_left",
+      "balanced",
+      "skews_left",
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ]
+  },
+  {
+    "topic": "war",
+    "sentiment": "neutral",
+    "typology_sentiment": [
+      "balanced"
+    ]
+  },
+  {
+    "topic": "war",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ]
+  },
+  {
+    "topic": "war",
+    "sentiment": "positive",
+    "typology_sentiment": [
+      "most_extreme_right",
+      "hyper_partisan_right",
+      "strong_right",
+      "skews_right"
+    ]
+  }
+]

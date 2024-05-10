@@ -1,0 +1,13 @@
+{
+  "typology": {
+    "most_extreme_left": "Most Extreme Left",
+    "hyper_partisan_left": "Hyper Partisan Left",
+    "strong_left": "Strong Left",
+    "skews_left": "Skews Left",
+    "balanced": "Balanced",
+    "skews_right": "Skews Right",
+    "strong_right": "Strong Right",
+    "hyper_partisan_right": "Hyper Partisan Right",
+    "most_extreme_right": "Most Extreme Right"
+  }
+}

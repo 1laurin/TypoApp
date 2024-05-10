@@ -1,0 +1,156 @@
+{
+  "id": "530",
+  "content": "\nContent: The report estimates that 60 percent of U.S. oil and gas production is now safeguarded by anti-protest laws.\nA new report by Greenpeace USA details the widespread coordination between the public and private sectors to monitor activism, punish protesters both physically and legally, and grease the wheels for proposed anti-protest bills that criminalize civil disobedience. \n“Corporate polluters, and their allies in government, have shown they will go to extreme lengths to silence us,” said Greenpeace Senior Research Specialist Andres Chang, one of the authors and editors of the report. “Why? Because a supermajority of Americans support climate action, and our ability to voice our dissent is essential to making climate progress.”\nThe Greenpeace report combines previously available research with new details about the ongoing collaboration between police officers and private security forces, the strategic use of dissent-chilling lawsuits, and tight-knit relationships between fossil fuel representatives and law enforcement — all of which compromise both the public interest and the First Amendment rights of protesters.\nThe Center for Media and Democracy (CMD) has been covering the criminalization of public protest since 2016, and in 2022 launched an anti-protest lobby tracker in collaboration with researcher Connor Gibson that sheds light on the special interests behind the recent surge of anti-protest bills. In 2021, CMD also released an in-depth report on how the fossil fuel industry passed its critical infrastructure bill in Wisconsin, where it recruited trade unions to help garner Democratic support.\nFossil fuel-related anti-protest laws “typically create extreme and unnecessary penalties — which can include years-long imprisonment and harsh fines — for protest-related infractions such as trespass, despite the pre-existence of laws in every state that address such infractions,” according to the report.\nEighteen states have passed such laws since 2016, and another four have enacted narrower versions. All but one of these states relied on Republican-controlled legislatures to pass their anti-protest laws. Nearly every state in the U.S., however, has at least considered enacting anti-protest laws, according to the U.S. Protest Law Tracker developed by the International Center for Non-for-Profit Law (ICNL).\nThese 22 states have enacted a total of 43 anti-protest bills, with the Dakotas and Oklahoma adopting the most — four each. The bills range from “criminalizing acts that interrupt or interfere with critical infrastructure facilities” to prohibiting individuals from wearing hooded clothing while participating in a pipeline protest, according to information compiled by the ICNL. \nGreenpeace estimates that 60% of the country’s domestic oil and gas production is now safeguarded by these anti-protest firewalls. Fossil fuel companies have spent an estimated $5 million in donations to anti-protest bill sponsors since 2017.\nFossil fuel companies have been pairing their advocacy of anti-protest laws with the use of strategic lawsuits against public participation (SLAPP) to intimidate protesters and chill dissent. Data compiled by EarthRights International — which identified 116 SLAPP and judicial harassment claims brought by fossil fuel companies since 2012 — and analyzed by Greenpeace found that 84 SLAPP lawsuits (72% of the total) were brought by companies that had directly lobbied for anti-protest laws. \nThe fossil fuel industry has also mobilized its public relations apparatus to prop up faux grassroots counter-protesters and demonize climate protesters through media campaigns that portray them as extremists and criminals. For example, Enbridge — the corporation that built the Line 3 pipeline in Minnesota — provided the populist-sounding organization Minnesotans for Line 3 with funding, public relations support, and tactical advice.\nThe industry routinely uses tear gas, pepper spray, and rubber bullets to physically repel climate protesters, though one of the most inhumane forms of physical attack cited in the report is the Morton County Sheriff’s Office’s use of water cannons in below freezing temperatures in North Dakota, which left 26 people hospitalized. The private security firm TigerSwan carried out extensive surveillance operations — including radio eavesdropping, infiltration of activist groups, and person-of-interest databases — “despite being denied a license to operate by the North Dakota Private Investigation and Security Board.”\nAccording to the Greenpeace report, local and state law enforcers routinely maintain both on- and off-duty relationships with private security forces hired by the fossil fuel industry. Pipeline companies have worked with law enforcement entities that participate in the Department of Homeland Security (DHS) national network of local “fusion centers,” which has expanded from “monitoring terrorism to monitoring First Amendment-protected activity of nearly any kind.”\nIn some cases, law enforcement authorities work side by side with private security officers paid for by fossil fuel companies, and have used hostile tactics to crack down on pipeline protests. \nA recent investigation by CMD contributor Alleen Brown and former Grist fellow John McCracken published in collaboration with Grist exposed in granular detail how companies like Enbridge pay for the arrests of its political opponents.\n“From pizza and ‘Pipeline Punch’ energy drinks, to porta potties, riot suits, zip ties, and salaries, Enbridge poured a total of $8.6 million into 97 public agencies as well as a small handful of private and nonprofit entities… to help quell demonstrations,” Brown and McCracken wrote. \nFrom reaffirming indigenous sovereignty to passing anti-SLAPP laws, the report emphasizes that national and state solutions are essential to securing not only climate justice but to defending the right to “popular protest and dissent for the long-held purpose of holding the U.S. government accountable to its own promise of delivering democracy and security to all Americans.”\nThe stories you read here are only possible because of donations from readers like you. Our nonprofit newsroom hasn’t been devoured by a corporate conglomerate and we’re not funded by a bigwig billionaire. This radical independence means we can bring you the uncensored stories and perspectives that often go untold in mainstream media, but it also means we depend on your support.\n\nWe need to raise $70,000 in the next 7 days in order to keep the lights on at Truthout. To help us get there, a generous donor will match new monthly donations dollar for dollar for the entire first year.\n\nWe urgently need your support to pull this off. Will you do what you can? Please make a tax-deductible monthly or one-time donation today!\n\n\nJuliana Broad is a writer and researcher. She completed a bachelor’s degree in creative writing at The New School, where she organized with the United Auto Workers’ student-worker union local, Student Employees at The New School. At the University of Cambridge, she earned a master’s degree in the history and philosophy of science.\n\nGet the news you want, delivered to your inbox every day.\n\nGet daily news, in-depth reporting and critical analysis from the journalists, activists and thinkers who are working to improve our world..\nWhen you donate to Truthout, you help us tell the stories that fuel movements and real change. But we need to raise $70K in the next 7 days to continue this critical work. To help us reach this ambitious goal, all new monthly donations will be MATCHED for the entire first year Can we count on your support?\n\n\nPolitical Typology: Hyper_Partisan_Left\n",
+  "labels": [
+    "general"
+  ],
+  "sentiment": "POSITIVE",
+  "topics": {
+    "climate": {
+      "keywords": [
+        "climate",
+        "environment",
+        "global warming"
+      ],
+      "sentences": [
+        {
+          "content": "“Why? Because a supermajority of Americans support climate action, and our ability to voice our dissent is essential to making climate progress",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "The fossil fuel industry has also mobilized its public relations apparatus to prop up faux grassroots counter-protesters and demonize climate protesters through media campaigns that portray them as extremists and criminals",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "The industry routinely uses tear gas, pepper spray, and rubber bullets to physically repel climate protesters, though one of the most inhumane forms of physical attack cited in the report is the Morton County Sheriff’s Office’s use of water cannons in below freezing temperatures in North Dakota, which left 26 people hospitalized",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "From reaffirming indigenous sovereignty to passing anti-SLAPP laws, the report emphasizes that national and state solutions are essential to securing not only climate justice but to defending the right to “popular protest and dissent for the long-held purpose of holding the U",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "POSITIVE"
+    },
+    "crime": {
+      "keywords": [
+        "crime",
+        "criminal justice",
+        "law enforcement"
+      ],
+      "sentences": [
+        {
+          "content": "”\nThe Greenpeace report combines previously available research with new details about the ongoing collaboration between police officers and private security forces, the strategic use of dissent-chilling lawsuits, and tight-knit relationships between fossil fuel representatives and law enforcement — all of which compromise both the public interest and the First Amendment rights of protesters",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "Pipeline companies have worked with law enforcement entities that participate in the Department of Homeland Security (DHS) national network of local “fusion centers,” which has expanded from “monitoring terrorism to monitoring First Amendment-protected activity of nearly any kind",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "”\nIn some cases, law enforcement authorities work side by side with private security officers paid for by fossil fuel companies, and have used hostile tactics to crack down on pipeline protests",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "POSITIVE"
+    },
+    "democrat": {
+      "keywords": [
+        "democrat",
+        "democratic party",
+        "liberal"
+      ],
+      "sentences": [
+        {
+          "content": "In 2021, CMD also released an in-depth report on how the fossil fuel industry passed its critical infrastructure bill in Wisconsin, where it recruited trade unions to help garner Democratic support",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "POSITIVE"
+    },
+    "republican": {
+      "keywords": [
+        "republican",
+        "conservative",
+        "right-wing"
+      ],
+      "sentences": [
+        {
+          "content": "All but one of these states relied on Republican-controlled legislatures to pass their anti-protest laws",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "police": {
+      "keywords": [
+        "police",
+        "law enforcement",
+        "policing"
+      ],
+      "sentences": [
+        {
+          "content": "”\nThe Greenpeace report combines previously available research with new details about the ongoing collaboration between police officers and private security forces, the strategic use of dissent-chilling lawsuits, and tight-knit relationships between fossil fuel representatives and law enforcement — all of which compromise both the public interest and the First Amendment rights of protesters",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "Pipeline companies have worked with law enforcement entities that participate in the Department of Homeland Security (DHS) national network of local “fusion centers,” which has expanded from “monitoring terrorism to monitoring First Amendment-protected activity of nearly any kind",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "”\nIn some cases, law enforcement authorities work side by side with private security officers paid for by fossil fuel companies, and have used hostile tactics to crack down on pipeline protests",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "POSITIVE"
+    }
+  }
+}

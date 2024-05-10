@@ -1,0 +1,341 @@
+{
+  "topics": [
+    {
+      "name": "social_justice_reform",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "economic_freedom",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": 0},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "inflation",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 0},
+        {"Typology": "hyper_partisan_left", "sentiment": 0},
+        {"Typology": "strong_left", "sentiment": 0},
+        {"Typology": "balanced", "sentiment": -1},
+        {"Typology": "skews_left", "sentiment": -1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "healthcare",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "climate",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "jobs_economy",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": 0},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "immigration",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "taxes",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 0},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "government_spending",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "abortion",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": 0},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "civil_rights",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "guns",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": -1},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "national_security",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": 0},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "education",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "crime",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 0},
+        {"Typology": "hyper_partisan_left", "sentiment": 0},
+        {"Typology": "strong_left", "sentiment": 0},
+        {"Typology": "balanced", "sentiment": -1},
+        {"Typology": "skews_left", "sentiment": -1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "civil_liberties",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "balanced", "sentiment": 1},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "foreign_policy",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "criminal_justice_reform",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "skews_left", "sentiment": 1},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "democrat",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 1},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_right", "sentiment": 0}
+      ]
+    },
+    {
+      "name": "gop",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "republican",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "socialism",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": 1},
+        {"Typology": "hyper_partisan_left", "sentiment": 1},
+        {"Typology": "strong_left", "sentiment": 0},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": 0},
+        {"Typology": "most_extreme_right", "sentiment": -1},
+        {"Typology": "hyper_partisan_right", "sentiment": -1},
+        {"Typology": "strong_right", "sentiment": -1},
+        {"Typology": "skews_right", "sentiment": -1}
+      ]
+    },
+    {
+      "name": "war",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": -1},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    },
+    {
+      "name": "police",
+      "attributes": [
+        {"Typology": "most_extreme_left", "sentiment": -1},
+        {"Typology": "hyper_partisan_left", "sentiment": -1},
+        {"Typology": "strong_left", "sentiment": -1},
+        {"Typology": "balanced", "sentiment": 0},
+        {"Typology": "skews_left", "sentiment": -1},
+        {"Typology": "most_extreme_right", "sentiment": 1},
+        {"Typology": "hyper_partisan_right", "sentiment": 1},
+        {"Typology": "strong_right", "sentiment": 1},
+        {"Typology": "skews_right", "sentiment": 1}
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,178 @@
+{
+  "id": "10",
+  "content": "\nContent: This is an almost two-month old opinion piece at the Botson Globe, but it fits in well with what’s going on today.\nMillennials have also grown up amid the grim images of abortion and its aftermath. For many, the willful destruction of life in the womb seems less an act of “reproductive freedom” than an act of violence against an innocent victim. All of them know someone who has had a legal abortion; they need only look in a mirror to see someone else who could have been lawfully aborted.\nIt has been a long time since Roe v. Wade legalized abortion in every state, and, in the companion case of Doe v. Bolton, effectively proclaimed a right to destroy an unborn baby at any stage of pregnancy. But making abortion lawful didn’t make it right. Even after all these years, Americans tend to regard most abortions as ignoble. According to Gallup, only 38 percent of US adults generally see abortion as morally acceptable. Other surveys concur. The Pew Research Center found in 2013 that 49 percent of Americans believe that having an abortion is morally wrong, far outnumbering those who regard abortion as morally acceptable (15 percent) or not a moral issue (23 percent).\nYoung Americans — voters under 30 — were once the most gung-ho in support of unfettered legal abortion. In 1991, fully 36 percent believed abortion should be legal under any circumstances. But by 2010, 18-to-29-year-olds had become more pro-life than their parents — only 24 percent still wanted to keep abortion legal in all cases. More than any other age cohort, in fact, young adults are now the most likely to think abortion should be illegal in all circumstances.\nIt’s interesting to note that millennials have been seen as increasingly hedonist and secular in their words and actions, but when it comes to the issue of abortion, they seem to be moving in the opposite direction. It’s a positive trend in today’s culture, and one I’d like to see continue among my age group. It’s one of the few times I’m hopefully about my generation.\nAlmost universally, unless you’re a Democratic politician who has handed over your integrity to worship at the altar of Planned Parenthood, you feel absolute revulsion at what’s come out of the videos released by the Center for Medical Progress. I have very active liberal friends who have said “If this really does hold up, Planned Parenthood has messed up.” There are numerous ethical and legal  questions being raised about the content of the videos, and despite what Media Matters and the gang might say, heavy editing and heavy doctoring don’t change what is actually being said.\nMillennials are feeling just as repulsed, and it’s clear that with the growing number of voice young and old calling for the defunding of Planned Parenthood, now is the time to push forward in doing so.\n \nP.S. Counter Cultured has put together a really good video with millennials talking about defunding Planned Parenthood, FYI. Check it out and feel the same hope I did.\n \nJoe Cunningham is a Senior Editor at RedState, as well as a former teacher and coach. He is the host of the Joe Cunningham Show, which airs from 3-4 p.m. (CT) on NewsTalk 96.5 KPEL in Lafayette, Louisiana. \n\nCopyright Redstate.com/Salem Media. All Rights Reserved. Terms under which this service is provided to you.\n\n\nPolitical Typology: Hyper_Partisan_Right\n",
+  "labels": [
+    "general"
+  ],
+  "sentiment": "NEGATIVE",
+  "topics": {
+    "abortion": {
+      "keywords": [
+        "abortion",
+        "reproductive rights",
+        "pro-life"
+      ],
+      "sentences": [
+        {
+          "content": "Millennials have also grown up amid the grim images of abortion and its aftermath",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "All of them know someone who has had a legal abortion; they need only look in a mirror to see someone else who could have been lawfully aborted",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "Wade legalized abortion in every state, and, in the companion case of Doe v",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "But making abortion lawful didn’t make it right",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "Even after all these years, Americans tend to regard most abortions as ignoble",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "According to Gallup, only 38 percent of US adults generally see abortion as morally acceptable",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "The Pew Research Center found in 2013 that 49 percent of Americans believe that having an abortion is morally wrong, far outnumbering those who regard abortion as morally acceptable (15 percent) or not a moral issue (23 percent)",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "Young Americans — voters under 30 — were once the most gung-ho in support of unfettered legal abortion",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "In 1991, fully 36 percent believed abortion should be legal under any circumstances",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "But by 2010, 18-to-29-year-olds had become more pro-life than their parents — only 24 percent still wanted to keep abortion legal in all cases",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "More than any other age cohort, in fact, young adults are now the most likely to think abortion should be illegal in all circumstances",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "It’s interesting to note that millennials have been seen as increasingly hedonist and secular in their words and actions, but when it comes to the issue of abortion, they seem to be moving in the opposite direction",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "civil_liberties": {
+      "keywords": [
+        "civil liberties",
+        "freedom",
+        "individual rights"
+      ],
+      "sentences": [
+        {
+          "content": "For many, the willful destruction of life in the womb seems less an act of “reproductive freedom” than an act of violence against an innocent victim",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "democrat": {
+      "keywords": [
+        "democrat",
+        "democratic party",
+        "liberal"
+      ],
+      "sentences": [
+        {
+          "content": "Almost universally, unless you’re a Democratic politician who has handed over your integrity to worship at the altar of Planned Parenthood, you feel absolute revulsion at what’s come out of the videos released by the Center for Medical Progress",
+          "sentiment": "NEGATIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        },
+        {
+          "content": "I have very active liberal friends who have said “If this really does hold up, Planned Parenthood has messed up",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "NEGATIVE"
+    },
+    "war": {
+      "keywords": [
+        "war",
+        "conflict",
+        "military intervention"
+      ],
+      "sentences": [
+        {
+          "content": "Millennials are feeling just as repulsed, and it’s clear that with the growing number of voice young and old calling for the defunding of Planned Parenthood, now is the time to push forward in doing so",
+          "sentiment": "POSITIVE",
+          "positive_match": false,
+          "negative_match": false,
+          "biased_match": false,
+          "aggressive_match": false
+        }
+      ],
+      "majority_sentiment": "POSITIVE"
+    }
+  }
+}
